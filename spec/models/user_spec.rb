@@ -11,6 +11,7 @@
 
 require 'spec_helper'
 
+
 describe User do
   
   before do
@@ -106,12 +107,5 @@ describe User do
   end
   end
 
-
+  
 end
-
-
-
-
-
-
-
